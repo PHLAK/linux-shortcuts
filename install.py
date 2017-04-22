@@ -17,7 +17,6 @@ def installShortcut(path, promt=True):
     shortcut = os.path.splitext(basename)[0]
 
     if (promt and os.path.isfile(os.path.join(applications_dir, basename))):
-
         while 'overwrite' not in locals() or overwrite.lower() not in ['y', 'n']:
             overwrite = input('A ' + shortcut + ' shortcut already exists, overwite it? [Y/N]: ')
 
@@ -25,9 +24,7 @@ def installShortcut(path, promt=True):
             return
 
     print('Installing ' + shortcut + ' shortcut ... ', end='')
-
     copyfile(path, os.path.join(applications_dir, basename))
-
     print('DONE')
 
 def installAllShortcuts(shortcuts, prompt=True):
