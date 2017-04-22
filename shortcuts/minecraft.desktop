@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Minecraft
+Exec=java -jar /opt/minecraft/Minecraft.jar
+Icon=minecraft
+StartupWMClass=cf5ae0aba256c54d778dae808a61868695c4cc9c

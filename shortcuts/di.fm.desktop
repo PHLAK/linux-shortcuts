@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=DI.fm
+Exec=vlc "http://listen.di.fm/premium/favorites.pls?${DI_STREAM_KEY}"
+Icon=radio
+StartupWMClass=1a8d453e073c6948f4f9d4032085824600f29d24
