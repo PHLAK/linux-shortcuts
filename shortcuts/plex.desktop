@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Plex
+Exec=google-chrome --app=https://www.plex.tv/web
+Icon=plex
+StartupWMClass=025314502ace7b73e2bd35660553a706b0e841fb
