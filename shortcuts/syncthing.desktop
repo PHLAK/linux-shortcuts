@@ -5,4 +5,4 @@ Type=Application
 Name=Syncthing
 Exec=google-chrome --app=https://localhost:8384
 Icon=syncthing-gtk
-StartupWMClass=2867cb7c71ceaa6a3b7dd2aad87d9e9db1f12c17
+StartupWMClass=localhost

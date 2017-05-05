@@ -5,4 +5,4 @@ Type=Application
 Name=Twitter
 Exec=google-chrome --app=https://mobile.twitter.com
 Icon=web-twitter
-StartupWMClass=ec880628fb97dc32a4a379a2cee04bab214fff8a
+StartupWMClass=mobile.twitter.com

@@ -5,4 +5,4 @@ Type=Application
 Name=Paper
 Exec=google-chrome --app=https://paper.dropbox.com
 Icon=docear
-StartupWMClass=f36b9989b64f0c83c50fd04c4d73d4354bcf530c
+StartupWMClass=paper.dropbox.com

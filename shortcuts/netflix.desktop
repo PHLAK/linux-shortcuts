@@ -5,4 +5,4 @@ Type=Application
 Name=Netflix
 Exec=google-chrome --app=https://www.netflix.com
 Icon=netflix-desktop
-StartupWMClass=a6bfc7606cc26e7f06af2ae6ea826fac04cff3fe
+StartupWMClass=www.netflix.com

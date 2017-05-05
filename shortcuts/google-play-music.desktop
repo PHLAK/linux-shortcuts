@@ -5,4 +5,4 @@ Type=Application
 Name=Google Play Music
 Exec=google-chrome --app=https://play.google.com/music/listen
 Icon=google-music
-StartupWMClass=8221c6a58a70d7e7cfcdd16f481760b356f9bfb3
+StartupWMClass=play.google.com__music_listen
