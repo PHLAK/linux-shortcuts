@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=Twitter
-Exec=google-chrome --app=https://mobile.twitter.com
-Icon=web-twitter
-StartupWMClass=mobile.twitter.com
