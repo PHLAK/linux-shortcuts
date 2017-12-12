@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=DI.fm
-Exec=google-chrome --app=http://www.di.fm
+Exec=google-chrome --app=http://www.di.fm --profile-directory=Default
 Icon=radio
 StartupWMClass=www.di.fm

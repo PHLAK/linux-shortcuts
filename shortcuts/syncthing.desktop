@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Syncthing
-Exec=google-chrome --app=https://localhost:8384
+Exec=google-chrome --app=https://localhost:8384 --profile-directory=Default
 Icon=syncthing-gtk
 StartupWMClass=localhost

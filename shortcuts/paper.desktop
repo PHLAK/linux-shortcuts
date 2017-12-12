@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Paper
-Exec=google-chrome --app=https://paper.dropbox.com
+Exec=google-chrome --app=https://paper.dropbox.com --profile-directory=Default
 Icon=docear
 StartupWMClass=paper.dropbox.com

@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Google Play Music
-Exec=google-chrome --app=https://play.google.com/music/listen
+Exec=google-chrome --app=https://play.google.com/music/listen --profile-directory=Default
 Icon=google-music
 StartupWMClass=play.google.com__music_listen

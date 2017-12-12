@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Netflix
-Exec=google-chrome --app=https://www.netflix.com
+Exec=google-chrome --app=https://www.netflix.com --profile-directory=Default
 Icon=netflix-desktop
 StartupWMClass=www.netflix.com

@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Plex
-Exec=google-chrome --app=https://www.plex.tv/web
+Exec=google-chrome --app=https://www.plex.tv/web --profile-directory=Default
 Icon=plex
 StartupWMClass=www.plex.tv__web
