@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Todoist
+Exec=google-chrome --app=https://todoist.com
+Icon=gnome-todo
+StartupWMClass=todoist.com
