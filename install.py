@@ -49,7 +49,7 @@ def main():
         ))
     print('')
 
-    while 'num' not in locals() or not num.isdigit() or not int(num) in range(0, len(shortcuts)):
+    while 'num' not in locals() or not num.isdigit() or not int(num) in range(0, len(shortcuts) + 1):
         num = input('Number: ')
 
     print('')
