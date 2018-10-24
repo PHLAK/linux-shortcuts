@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Slides
+Exec=google-chrome --app=https://slides.google.com --profile-directory=Default
+Icon=web-google-slides
+StartupWMClass=slides.google.com

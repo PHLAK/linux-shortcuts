@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Docs
+Exec=google-chrome --app=https://docs.google.com --profile-directory=Default
+Icon=google-docs
+StartupWMClass=docs.google.com
