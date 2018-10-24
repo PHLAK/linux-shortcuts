@@ -3,6 +3,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Todoist
-Exec=google-chrome --app=https://todoist.com
+Exec=google-chrome --app=https://chrome.todoist.com/app --profile-directory=Default
 Icon=gnome-todo
-StartupWMClass=todoist.com
+StartupWMClass=chrome.todoist.com__app
